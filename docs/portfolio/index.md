@@ -10,4 +10,4 @@ Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas p�
 
 - Plantilla: [plantilla.md](plantilla.md)
 - Primera entrada: [01-primera-entrada.md](01-primera-entrada.md)
-
+- Práctica 1: [01-practica1.md](01-practica1.md)

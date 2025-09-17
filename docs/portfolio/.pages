@@ -1,3 +1,11 @@
-title: Portfolio
+# docs/portfolio/.pages
+title: Portafolio
+arrange:
+  - index.md
+  - 01-practica1.md
+  - 02-practica2.md
+  - 04-practico4.md
+  - 06-practico6.md
+  - 07-practico7.md
+  - plantilla.md
 collapse: false
-order: asc

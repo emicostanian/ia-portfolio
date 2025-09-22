@@ -1,8 +1,3 @@
-# Create a Markdown file with the requested content
-content = """---
-title: "Acerca de mí"
-date: 2025-20-09
----
 
 # Acerca de mí
 

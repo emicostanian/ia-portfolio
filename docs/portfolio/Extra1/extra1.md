@@ -5,7 +5,7 @@ date: 2025-10-13
 
 # Extra 1 — KNN vs SVM en Breast Cancer (scikit-learn)
 
-**Notebook:** [06-extra1-knn-svm-breast_cancer.ipynb](06-extra1-knn-svm-breast_cancer.ipynb)
+**Notebook:** [Extra 1](Extra1.ipynb)
 
 ## Contexto
 Extiendo la práctica de **clasificación** usando el dataset **Breast Cancer** (scikit-learn) para comparar dos modelos populares: **KNN** y **SVM (RBF)**. Uso **pipelines** con **StandardScaler**, **GridSearchCV** para búsqueda de hiperparámetros y métricas estándar de evaluación.

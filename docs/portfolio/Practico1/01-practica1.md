@@ -8,7 +8,7 @@ date: 2025-09-17
 ## Contexto
 Exploración inicial del dataset **Titanic** (Kaggle). El objetivo es familiarizarse con el conjunto de datos, revisar calidad (faltantes, tipos), y obtener primeras hipótesis sobre supervivencia.
 
-**Notebook completo:** [01-practica1.ipynb](01-practica1.ipynb)
+**Notebook completo:** [Practico 1](01-practica1.ipynb)
 
 ## Objetivos
 - Cargar el dataset y verificar su estructura.

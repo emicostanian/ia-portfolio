@@ -5,7 +5,7 @@ date: 2025-09-17
 
 # Práctico 4 — Regresión (Boston Housing) + Clasificación (Breast Cancer)
 
-**Notebooks:** [04-practico4.ipynb](04-practico4.ipynb)
+**Notebooks:** [Practico 4](04-practico4.ipynb)
 
 ## Parte A — Regresión: Boston Housing
 ### Objetivo

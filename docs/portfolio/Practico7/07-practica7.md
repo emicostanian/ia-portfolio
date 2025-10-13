@@ -5,7 +5,7 @@ date: 2025-09-17
 
 # Práctico 7 — Perceptrón (AND/OR/NOT/XOR) y MLP para XOR
 
-**Notebook:** [07-practico7.ipynb](07-practico7.ipynb)
+**Notebook:** [Practico 7](07-practico7.ipynb)
 
 ## Parte 1 — Perceptrón y compuertas lógicas
 - Implementación de un **perceptrón** con pesos y bias.

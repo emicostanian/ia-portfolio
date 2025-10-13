@@ -5,7 +5,7 @@ date: 2025-09-17
 
 # Práctica 2 — Titanic: Clasificación con Regresión Logística
 
-**Notebook:** [02-practica2.ipynb](02-practica2.ipynb)
+**Notebook:** [Practico 2](02-practica2.ipynb)
 
 ## Contexto
 Volvemos al dataset **Titanic** para construir un **modelo de clasificación binaria** con *LogisticRegression* (scikit-learn). El objetivo es predecir `Survived` a partir de variables demográficas y del viaje.

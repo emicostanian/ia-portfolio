@@ -5,7 +5,7 @@ date: 2025-09-17
 
 # Práctico 6 — Clustering con K-Means (Mall Customers)
 
-**Notebook:** [06-practico6.ipynb](06-practico6.ipynb)
+**Notebook:** [Practico 6](06-practico6.ipynb)
 
 ## Contexto
 Segmentación de clientes del dataset **Mall Customers** para identificar grupos por **ingreso anual** y **spending score** (entre otras variables).

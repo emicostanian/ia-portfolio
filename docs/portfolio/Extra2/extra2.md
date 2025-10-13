@@ -5,7 +5,7 @@ date: 2025-10-13
 
 # Extra 2 — Regularización L1 vs L2 (Wine) + Curvas de Validación/Aprendizaje
 
-**Notebook:** [07-extra2-logreg-l1vsl2-wine.ipynb](07-extra2-logreg-l1vsl2-wine.ipynb)
+**Notebook:** [Extra 2](Extra2.ipynb)
 
 ## Contexto
 Como trabajo complementario, analizo el **efecto de la regularización** (`l1` vs `l2`) en **Regresión Logística** sobre el dataset **Wine** (multiclase). Incluyo **validation curve** (barrido de `C`) y **learning curve** para diagnosticar **sesgo/varianza**, y una mirada a la **esparsidad** de coeficientes con `l1`.

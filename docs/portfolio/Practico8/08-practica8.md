@@ -3,7 +3,7 @@
 
 # Práctico 8 — MLP en CIFAR-10 con Keras/TensorFlow
 
-**Notebook:** [Practico_8.ipynb](08-Practico8.ipynb)
+**Notebook:** [Practico 8](08-Practico8.ipynb)
 
 ## Parte 1 — Dataset y preprocesamiento
 - Carga de **CIFAR-10** desde `keras.datasets.cifar10`.

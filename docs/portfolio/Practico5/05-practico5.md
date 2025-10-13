@@ -5,7 +5,7 @@ date: 2025-09-17
 
 # Práctico 5 — Reducción de dimensionalidad (PCA & t-SNE)
 
-**Notebook:** [05-practica5.ipynb](05-practica5.ipynb)
+**Notebook:** [Practico 5](05-practica5.ipynb)
 
 ## Contexto
 Aplicamos técnicas de **reducción de dimensionalidad** para visualizar datos de alta dimensión y/o preparar features para modelos: **PCA** como método lineal y **t-SNE** como método no lineal orientado a visualización.
